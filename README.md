@@ -2,7 +2,7 @@
 
 # Part 1: Introduction to Software Engineering
 
-1.Explain what software engineering is and discuss its importance in the technology industry
+#### 1.Explain what software engineering is and discuss its importance in the technology industry
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 efficiency - it helps to optimize developer workflow while maintaining high quality standards.
@@ -10,14 +10,14 @@ efficiency - it helps to optimize developer workflow while maintaining high qual
  security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
 
-2.Identify and describe at least three key milestones in the evolution of software engineering.  
+#### 2.Identify and describe at least three key milestones in the evolution of software engineering.  
 .mastering complexity
 Mastering process
 Mastering machine
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
- planning - identify the software requirement or purpose and scope.
+#### List and briefly explain the phases of the Software Development Life Cycle.
+ ##### planning - identify the software requirement or purpose and scope.
  requirement analysis - identify the final user specification. 
 design - building the framework. 
 coding - converting software design into tangible code.
